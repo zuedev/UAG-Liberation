@@ -55,7 +55,7 @@ onLoadName = $STR_MISSION_TITLE;
 loadScreen = "res\lib.paa";
 
 // Displays a message while the mission is loading below the loadScreen picture.
-onLoadMission = "www.killahpotatoes.de";
+onLoadMission = "uagpmc.com";
 
 
 /*
