@@ -6701,18 +6701,18 @@
             <Czech>Zabití králíci: %1</Czech>
         </Key>
         <Key ID="STR_STATS_END1">
-            <Original>Many thanks for playing KP LIBERATION!</Original>
-            <French>Merci beaucoup d'avoir joué à KP LIBERATION!</French>
-            <German>Vielen Dank fürs Spielen von KP LIBERATION!</German>
-            <Spanish>¡Muchas gracias por jugar KP LIBERATION!</Spanish>
-            <Russian>Большое спасибо за то что играли в KP LIBERATION!</Russian>
-            <Italian>Mille Grazie per aver giocato KP LIBERATION!:</Italian>
-            <Chinesesimp>感谢您游玩 KP LIBERATION！</Chinesesimp>
-            <Chinese>感謝您遊玩 KP LIBERATION！</Chinese>
-            <Turkish>KP LIBERATION oynadığınız için çok teşekkürler!</Turkish>
-            <Portuguese>Muito obrigado por jogar KP LIBERATION!</Portuguese>
-            <Korean>지금까지 KP LIBERATION에 참여해 주신 분들께 감사드립니다!</Korean>
-            <Czech>Děkujeme za hraní KP LIBERATION!</Czech>
+            <Original>Many thanks for playing UAG LIBERATION!</Original>
+            <French>Merci beaucoup d'avoir joué à UAG LIBERATION!</French>
+            <German>Vielen Dank fürs Spielen von UAG LIBERATION!</German>
+            <Spanish>¡Muchas gracias por jugar UAG LIBERATION!</Spanish>
+            <Russian>Большое спасибо за то что играли в UAG LIBERATION!</Russian>
+            <Italian>Mille Grazie per aver giocato UAG LIBERATION!:</Italian>
+            <Chinesesimp>感谢您游玩 UAG LIBERATION！</Chinesesimp>
+            <Chinese>感謝您遊玩 UAG LIBERATION！</Chinese>
+            <Turkish>UAG LIBERATION oynadığınız için çok teşekkürler!</Turkish>
+            <Portuguese>Muito obrigado por jogar UAG LIBERATION!</Portuguese>
+            <Korean>지금까지 UAG LIBERATION에 참여해 주신 분들께 감사드립니다!</Korean>
+            <Czech>Děkujeme za hraní UAG LIBERATION!</Czech>
         </Key>
         <Key ID="STR_STATS_END2">
             <Original>We hope you enjoyed playing it, as much as we enjoyed making it.</Original>
