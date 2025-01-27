@@ -183,7 +183,7 @@ class Params {
         title = $STR_A3_IncapacitationMode;
         values[] = {0, 1, 2};
         texts[] = {$STR_A3_Basic, $STR_A3_Advanced, $STR_A3_Realistic};
-        default = 1;
+        default = 0;
     };
     class ReviveBleedOutDuration {
         title = $STR_A3_BleedOutDuration;
