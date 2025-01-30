@@ -2,6 +2,10 @@ waitUntil {!isNil "KPLIB_initServer"};
 
 params ["_newUnit", "_oldUnit"];
 
+if (player == ([] call KPLIB_fnc_getCommander)) then {
+    [] call KPLIB_fnc_requestZeus;
+};
+
 if (isNil "GRLIB_respawn_loadout") then {
     removeAllWeapons player;
     removeAllItems player;
